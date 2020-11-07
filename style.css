@@ -1,0 +1,32 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: darkorange;
+}
+
+
+canvas {
+    display: block;
+    margin: auto;
+}
+
+#para {
+    margin: auto;
+    text-align: center;
+    border: inset;
+    width: 900px;
+    border-radius: 30px;
+    background-color: lightseagreen;
+    font-size: 30px;
+}
+h1 {
+    color: lightblue;
+    text-align: center;
+    border: dotted;
+    border-radius: 20px;
+    border-color: red;
+    width: 450px;
+    font-size: 50;
+    margin: auto;
+
+}
